@@ -1,3 +1,6 @@
 6880880 (OPatch Doc id)
 
 2118136.2 (Ru Doc id)
+Attach -> 고객사한테 커맨드 주고 파일 받아서 Analyze for conflicts에서 Attach File에 올려서 호환 확인, 패치끼리 충돌 확인
+
+updates.oracle.com/Orion/Services/download?yupe=readme&aru=23869619 -> 패치 그리드 확인해서 가져가기 (Opatch Readme)
